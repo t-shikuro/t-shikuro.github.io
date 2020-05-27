@@ -2,13 +2,19 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Data Wrangling Projects"
-    url: /data-wrangling/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Projects"
+    url: /machine-learning/
+  # - title: "Deep Learning"
+  #   url: /deep-learning/
+  - title: "Developer"
+    url: /web-developer/
+  - title: "Dashboards"
+    url: /visualizations/
+  # - title: "Data Analytics"
+  #   url: /analysis/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  # - title: "Sitemap"
+  #   url: /sitemap/
   # - title: "Sitemap"
   #   url: /sitemap/
